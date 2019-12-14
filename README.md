@@ -1,5 +1,3 @@
-# MiniOS
-A command line OS based on COSMOS kernel and C#
 # IOTA OS
 
 ![](images/Boot.png)
@@ -53,11 +51,9 @@ The .sln file can be opened in Visual Studio and can be used for development pur
 
 ## Author
 
-* **Gariman Gupta**
 * **Aneesh Dua**
 
 ## Acknowledgments
 
 * bartashevich(Snake Game)
 * CasteSoftworks(Development Reference)
-
